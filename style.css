@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+    background-color: steelblue;
+}
+header > h1{
+    text-align: center;
+    color: white;
+    font-size:5em;
+}
+section{
+    width:500px;
+    background: white;
+    border-radius:10px;
+    padding:15px;
+    margin: auto;
+    box-shadow:5px 5px 10px rgba(0, 0, 0, 0.53);
+}
+div#msg{
+    text-align: center;
+    font-size:2em;
+}
+
+footer{
+    text-align: center;
+    color:white;
+    font-style: italic;
+}
